@@ -1,0 +1,2 @@
+# standlone
+easy installation
